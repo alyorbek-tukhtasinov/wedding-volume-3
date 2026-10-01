@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <link rel="icon" type="image/png" href="../favicon.png" />
+    <link rel="icon" type="image/x-icon" href="../favicon.ico" />
+    <link rel="apple-touch-icon" href="../favicon.png" />
+    <meta name="theme-color" content="#1e3a8a" />
+    <script type="module" crossorigin src="../assets/index-CHCUMz10.js"></script>
+    <link rel="stylesheet" crossorigin href="../assets/index-D8I4cX1B.css">
+      <title>Элёр &amp; Диёра — Taklifnoma</title>
+    <meta name="description" content="Элёр va Диёраning to'y taklifnomasi. 2027-yil 2-fevral kuni soat 18:00 da Yakkasaroy Restaurantda sizni kutamiz." />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Taklifnoma" />
+    <meta property="og:title" content="Элёр &amp; Диёра — Taklifnoma" />
+    <meta property="og:description" content="Элёр va Диёраning to'y taklifnomasi. 2027-yil 2-fevral kuni soat 18:00 da Yakkasaroy Restaurantda sizni kutamiz." />
+    <meta property="og:image" content="https://taklif-link.uz/uploads/photo-VG659r_-RsV7WUXkRHJlr.jpg" />
+    <meta property="og:url" content="https://taklif-link.uz/wedding/elyor-diyora" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Элёр &amp; Диёра — Taklifnoma" />
+    <meta name="twitter:description" content="Элёр va Диёраning to'y taklifnomasi. 2027-yil 2-fevral kuni soat 18:00 da Yakkasaroy Restaurantda sizni kutamiz." />
+    <meta name="twitter:image" content="https://taklif-link.uz/uploads/photo-VG659r_-RsV7WUXkRHJlr.jpg" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- This is a replit script which adds a banner on the top of the page when opened in development mode outside the replit environment -->
+    <script type="text/javascript" src="https://replit.com/public/js/replit-dev-banner.js"></script>
+  </body>
+</html>
